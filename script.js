@@ -28,7 +28,7 @@ function delay(i){
         list.innerHTML += "<li>" + i + "</li>"
               }
     }
-  }, i * 300)
+  }, i * 400)
 };
 
 

@@ -5,6 +5,9 @@
   text-align: center;
 }
 
+h1{
+  margin-top: 50px;
+}
 
 button{
   padding:10px 40px;
@@ -24,6 +27,8 @@ ul{
 
 li{
   margin:15px;
+  min-width: 50px;
+  max-width: 50px;
 }
 
 .fizz{
