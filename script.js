@@ -1,7 +1,7 @@
 
 var nums = 100;
 
-for (i = 1 ; i < nums ; i++){
+for (i = 1 ; i <= nums ; i++){
    if( i % 3 === 0 && i % 5 === 0 ){
      console.log("FizxBuzz")
    }else{
