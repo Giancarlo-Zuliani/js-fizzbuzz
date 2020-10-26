@@ -1,0 +1,39 @@
+*{
+  box-sizing: border-box;
+  margin:0;
+  padding:0;
+  text-align: center;
+}
+
+
+button{
+  padding:10px 40px;
+  margin:50px auto;
+  background-color: red;
+  border-radius: 20px;
+ }
+
+ul{
+  list-style: none;
+  display:flex;
+  flex-wrap: wrap;
+  width:80%;
+  margin:auto;
+  background-color: lightgreen;
+}
+
+li{
+  margin:15px;
+}
+
+.fizz{
+  color:blue;
+}
+
+.fizzbuzz{
+  color:purple;
+}
+
+.buzz{
+  color:red;
+}
